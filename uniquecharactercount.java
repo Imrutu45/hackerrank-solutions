@@ -16,7 +16,6 @@ class Result {
         {
             unique.add(s.charAt(i));
         }
-        
         return unique.size();
 
     }
