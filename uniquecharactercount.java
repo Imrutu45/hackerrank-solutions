@@ -37,7 +37,6 @@ public class uniquecharactercount {
             bufferedWriter.write(String.valueOf(result));
             bufferedWriter.newLine();
         }
-
         bufferedReader.close();
         bufferedWriter.close();
     }
