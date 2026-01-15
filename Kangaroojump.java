@@ -26,7 +26,6 @@ class Result
     }
 
 }
-
 public class Kangaroojump {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
